@@ -1,0 +1,49 @@
+body{
+    font-family: Georgia;
+    font-size: 15px;
+    margin: 0 auto;
+}	
+
+table{
+    width:500px;
+    margin: 0 auto;
+    border-collapse: collapse;
+}
+.st{
+    font-family: Arial;
+    text-align: right;
+    padding-right: 20px;
+    color: #388bdd;
+    padding:15px;
+    border-right: 2px solid black;
+}
+.table_LbStraine{
+    margin: 0;
+    border: 2px solid black;
+}
+.table_LbStraine td{
+    border: 2px solid black;
+    text-align: center;
+    padding: 5px;
+}
+.dr{
+    padding-left: 20px;
+}
+.bold{
+    font-weight: bold;
+}
+.color{
+    color: #000000;
+}
+.left_border{
+    border-bottom: 4px solid rgb(168, 157, 121);
+    background-color: rgb(235, 223, 170);
+}
+.up{
+    padding-bottom: 6%;
+}
+.c{
+    font-size: 80%;
+    font-family: Times New Roman;
+}
+
